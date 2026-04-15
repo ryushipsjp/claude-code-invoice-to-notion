@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.env
+invoices.csv
+invoices-*.csv
+capture-*.png
+capture-*.svg
+og.svg
+*.pdf
+!sample-invoice.pdf
+.DS_Store
