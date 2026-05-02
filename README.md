@@ -4,8 +4,14 @@ Drop an invoice PDF → get structured data. Built with Claude.
 
 No OCR libraries. No regex. Claude reads the PDF directly and returns clean JSON.
 
+## Get the Code
+
+> Full source code is available on Gumroad — includes repo zip, setup guide, and support.
+>
+> **[→ Get the code ($19)](https://whsiky.gumroad.com/l/fzguhn)**
+
 > **Current output: CSV (zero-auth, works out of the box).**
-> Notion / Google Sheets / Airtable adapters are a ~30-line file away — see [`src/csv.ts`](src/csv.ts) for the pattern.
+> Notion / Google Sheets / Airtable adapters are a ~30-line file away.
 
 ## Why
 
